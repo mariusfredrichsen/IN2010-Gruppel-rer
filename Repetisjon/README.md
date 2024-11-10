@@ -13,3 +13,6 @@ Rangerer dem fra vanskelighets grad lett ^ og vanskelig v.
 - [Dvds](https://open.kattis.com/problems/dvds)
 - [Dasort](https://open.kattis.com/problems/dasort)
 - [Ultraquicksort](https://open.kattis.com/problems/ultraquicksort)
+
+## Korreksjoner
+- Selection sort ER ustabil og IKKE stabil
