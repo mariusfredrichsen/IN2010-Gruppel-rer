@@ -1,5 +1,5 @@
 # Sortering
-
+Her ligger det slides fra presentasjonen, oppgaver og min bucketsort/radixsort tolkning i python :)
 
 ## Kattis oppgaver
 Rangerer dem fra vanskelighets grad lett ^ og vanskelig v.
